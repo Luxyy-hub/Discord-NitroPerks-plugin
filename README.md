@@ -8,7 +8,6 @@ https://betterdiscord.app/
 # Fixed
 
 - fixed emojis
-- the code has been improved
 
 # Credits
 
