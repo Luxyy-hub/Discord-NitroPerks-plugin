@@ -15,7 +15,7 @@ module.exports = (() => {
             }],
             "version": "1.3.7",
             "description": "streams with 60 fps at 1080p everywhere",
-            "github": "https://github.com/PlagueCreator/Discord-NitroPerks",
+            "github": "https://github.com/Project-Lucifer/Discord-NitroPerks-plugin",
             "github_raw": "https://raw.githubusercontent.com/PlagueCreator/Discord-NitroPerks/edit/main/NitroPerks.plugin.js"
         },
 		"changelog": [
